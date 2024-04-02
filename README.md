@@ -1,7 +1,7 @@
-#Interactive Card
+# Interactive Card
 This HTML document creates an interactive card that showcases some information and features a clickable button.
 
-##Features:
+## Features:
 **Title:** The card has a title "Interactive Card" displayed prominently.
 
 **Content:** It contains a paragraph displaying "FST CARD" and a list of items related to skills or topics.
