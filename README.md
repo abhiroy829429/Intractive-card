@@ -17,15 +17,16 @@ This HTML document creates an interactive card that showcases some information a
 
 **FontAwesome:** The user icon is sourced from FontAwesome using a CDN.
 
-##Usage:
+## Usage:
 Simply open the HTML file in a web browser to view the interactive card. Click the "Click Me" button to trigger the event associated with it.
 
-##Dependencies:
+## Dependencies:
 FontAwesome Kit: The FontAwesome kit is imported via a CDN to utilize icons.
 
-##Contributing:
+## Contributing:
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to submit a pull request or open an issue in the repository.
-##Instalation:
+## Instalation:
 **Clone the Repository:
  ```bash
+ https://github.com/abhiroy829429/Intractive-card.git
  
